@@ -4,7 +4,8 @@
 //  Function:   Basic expression evaluator
 //
 //  Copyright:  Andrew Willmott
-//
+//  https://github.com/andrewwillmott
+//  I feel really bad because I forgot where I found this library and I'm only assuming this C++ dev is the same Andrew Willmott
 
 #include "CLExpr.h"
 
