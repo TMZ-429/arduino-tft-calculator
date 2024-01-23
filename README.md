@@ -11,7 +11,7 @@ $ mkdir ~/Arduino/libraries/CLExpr.h
 
 Afterwards, you should be able to compile the program normally
 
-CREDITS:
+# CREDITS:
 
 Main project by me, CLExpr library by Andrew Willmott
 
