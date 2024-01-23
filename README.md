@@ -5,3 +5,6 @@ This should be possible by issueing the following command:
 ```
 $ mkdir ~/Arduino/libraries/CLExpr.h
 ```
+
+
+Afterwards, you should be able to compile the program normally
