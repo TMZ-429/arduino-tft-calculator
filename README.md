@@ -10,3 +10,11 @@ $ mkdir ~/Arduino/libraries/CLExpr.h
 
 
 Afterwards, you should be able to compile the program normally
+
+CREDITS:
+
+Main project by me, CLExpr library by Andrew Willmott
+
+https://github.com/andrewwillmott
+
+(I believe this is the right GitHub page)
