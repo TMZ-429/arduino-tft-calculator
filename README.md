@@ -1,11 +1,13 @@
 # INSTALLATION
 First, you're going to need to add the CLExpr library to your Arduino libs.
 
-This can be done by making a directory called CLExpr in your Arduino libraries directory
+This can be done by making a directory called CLExpr in your Arduino libraries directory & installing CLExpr in it
 
-This should be possible by issuing the following command:
+This should be possible by issuing the following commands:
 ```
-$ mkdir ~/Arduino/libraries/CLExpr.h
+$ mkdir ~/Arduino/libraries/CLExpr
+$ mv CLExpr.cpp ~/Arduino/libraries/CLExpr/CLExpr.cpp
+$ mv CLExpr.h ~/Arduino/libraries/CLExpr/CLExpr.h
 ```
 
 
